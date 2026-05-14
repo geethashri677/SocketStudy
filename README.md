@@ -122,6 +122,6 @@ s.close()
 
 
 
-.
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully

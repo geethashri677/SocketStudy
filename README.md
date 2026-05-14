@@ -93,9 +93,11 @@ s.send("Acknowledgement received from the server".encode())
 
 s.close()
  ## output:
-    <img width="1911" height="1011" alt="Screenshot 2026-05-14 173306" src="https://github.com/user-attachments/assets/22ea3f74-7862-46b2-8643-3fd0e8151fb9" />
-	<img width="1915" height="1012" alt="Screenshot 2026-05-14 173323" src="https://github.com/user-attachments/assets/59732137-7bcb-4df7-9646-1ebbf988b750" />
+<img width="1911" height="1011" alt="Screenshot 2026-05-14 173306" src="https://github.com/user-attachments/assets/c1f0ef5a-7809-4f9b-9a2f-ad9af55f2108" />
+<img width="1915" height="1012" alt="Screenshot 2026-05-14 173323" src="https://github.com/user-attachments/assets/9b3dcdc0-65f0-467f-8e91-0c6775979249" />
 
+
+	
 
 
 
